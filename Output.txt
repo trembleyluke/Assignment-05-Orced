@@ -1,0 +1,6 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=61970:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/LukeTrembley/IdeaProjects/Orc'ed/out/production/Orc'ed Main
+Strength = 20
+Dexterity = 20
+Intelligence = 10
+The boss's final HP is -10.500034338083054
+Process finished with exit code 0
